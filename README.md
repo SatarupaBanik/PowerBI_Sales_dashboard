@@ -18,7 +18,7 @@ The key takeaways from the analysis are presented on three slides:
 - Furniture and Office Supplies categories followed closely with ₹742K and ₹719K respectively.
 - Diversifying offerings in Furniture could enhance sales potential.
 
-Files Included
-sales_dashboard_insights.pdf – Exported report
-Sales performance insights.pptx- slide format
-README.md – Documentation
+## Files Included:
+1.Sales_dashboard_insights.pdf – Exported report
+2.Sales performance insights.pptx- slide format
+3.README.md – Documentation
